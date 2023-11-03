@@ -82,6 +82,10 @@ We want to give the user a possibility to select a fragment of the visible Piano
 |           x1            x2        |  |  Piano Roll  |
 +-----------+-------------+---------+  |              |
                                        +--------------+
+
+https://github.com/bigdDagon/pianoroll-frontend-challenge/assets/139561020/c0e007d0-da5d-41e6-b550-5bbbdbe26ec3
+
+
                                              ...
 ```
 
@@ -102,6 +106,10 @@ Your task is to implement a tool or an overlay on the piano roll that allows use
 1. **Functionality**: The selection mechanism should work as described, allowing users to select a range on the piano roll.
 2. **User Experience**: The tool should provide a good user experience, with intuitive controls and clear visual feedback.
 3. **Code Quality**: The code should be clean, easy to read, well-organized, and properly documented.
+
+
+
+https://github.com/bigdDagon/pianoroll-frontend-challenge/assets/139561020/283b25bb-fec2-4e4f-8265-efef7a33728e
 
 
 
